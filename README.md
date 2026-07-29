@@ -366,8 +366,26 @@ Dokumen sertifikat lengkap dapat diakses melalui:
 
 **Glenn Ronaldo Tambunan**
 
-D3 Sistem Informasi Student at **Universitas Pembangunan Nasional "Veteran" Jakarta**.
+D3 Information Systems Student at  
+**Universitas Pembangunan Nasional "Veteran" Jakarta**
 
-Interested in **Data Analysis, Machine Learning, Data Visualization, and Data-driven Problem Solving**.
+Interested in:
+
+- Data Analytics
+- Machine Learning
+- Data Visualization
+- Business Intelligence
+- Data-driven Problem Solving
+
+Technical Skills:
+
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib)
+- SQL (Google BigQuery)
+- Microsoft Excel
+- Tableau
+- Looker Studio
+- Power BI
 
 This project was developed as part of the **POINTER 2026 Machine Learning Workshop**.
+
+The project applies Machine Learning workflow for heart disease risk prediction, including Exploratory Data Analysis (EDA), data preprocessing, model comparison, model evaluation, feature importance analysis, and final model deployment.
