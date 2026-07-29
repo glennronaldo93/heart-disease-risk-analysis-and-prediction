@@ -339,6 +339,29 @@ Project ini juga memberikan insight mengenai Feature yang memiliki kontribusi pe
 
 ---
 
+# Workshop Certificate
+
+Project ini merupakan bagian dari **Workshop Program Intensive Learning (POINTER) 2026**.
+
+Workshop ini mencakup beberapa materi utama:
+
+- Introduction to Data Science and Machine Learning
+- Exploratory Data Analysis and Data Wrangling
+- Machine Learning Models
+- Mini Project
+
+Berikut merupakan sertifikat keikutsertaan workshop:
+
+![POINTER 2026 Certificate Page 1](certificate/POINTER_2026_Certificate_Page1.png)
+
+![POINTER 2026 Certificate Page 2](certificate/POINTER_2026_Certificate_Page2.png)
+
+Dokumen sertifikat lengkap dapat diakses melalui:
+
+`certificate/POINTER_2026_Certificate.pdf`
+
+---
+
 # Author
 
 **Glenn Ronaldo Tambunan**
